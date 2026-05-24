@@ -6,7 +6,7 @@
 ## 1. Project Overview
 This repository contains the source code, data pipelines, and research findings for the `sec_13f_tracker` project, developed as part of a proprietary quantitative research environment.
 
-**Category**: Dashboards And Apps
+**Category**: Core Strategy
 
 ## 2. Methodology & Implementation
 This system implements rigorous software engineering and quantitative practices:
